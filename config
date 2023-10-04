@@ -28,7 +28,6 @@ contexts:
     namespace: crm
     user: clusterUser_production_k8s-production
   name: k8s-production
-current-context: k8s-development
 kind: Config
 preferences: {}
 users:
